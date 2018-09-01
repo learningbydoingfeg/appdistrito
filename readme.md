@@ -48,3 +48,5 @@ Ruby
 Git
 Rails
 Postgres
+
+ver este repositorio  https://github.com/juan267/computer-setup-ruby
