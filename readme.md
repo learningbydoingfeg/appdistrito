@@ -41,7 +41,7 @@ gamification (medallas y rewards a través de íconos, contenido premium al repo
 
 Modelo de diseño:
 MVC Modelo Vista Controlador
----------------------------------------------------------
+----------------------------
 Instalar:
 
 Ruby
