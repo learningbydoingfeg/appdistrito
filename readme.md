@@ -1,5 +1,9 @@
 Ideas:
 
+RED DE SEGURIDAD CIUDADANA
+
+COMUNIDAD SEGURAPP
+
 
 
 Maqueta: https://wireframe.cc/it6Hrg
@@ -17,25 +21,29 @@ mapeo de zonas rojas
 
 entre los servicios principales de la aplicación se permitirá
 
-- REPORTE DE ZONA INSEGURA
-- ASISTENCIA A LA PERSONA(S) INVOLUCRADAS
-- REPRESENTACIÓN DE SEGURIDAD EN LAS ZONAS UBICADAS EN UN MAPA
-- LLAMADA A AUTORIDADES COMPETENTES DEL CUADRANTE MAS CERCANO BASADO EN GEOLOCALIZACIÓN
+- REPORTE EVENTO INSEGURO *
+- ASISTENCIA A LA PERSONA(S) INVOLUCRADAS *
+- REPRESENTACIÓN DE SEGURIDAD EN LAS ZONAS UBICADAS EN UN MAPA *
+- LLAMADA A AUTORIDADES COMPETENTES DEL CUADRANTE MAS CERCANO BASADO EN GEOLOCALIZACIÓN *
+
+
 - PREVENCIÓN DE TRÁNSITO POR ZONAS CON ALTOS INDICES DE REPORTES
+- RASTREO DE SERES QUERIDOS
+
 
 plan de fidelización  (usuarios destacados)
 
 reputación 
-gamification (medallas y rewards a través de íconos, contenido premium o puntos canjeables con el distrito o beneficios tributarios)
 
-
+gamification (medallas y rewards a través de íconos, contenido premium al reportar y ayudar)
 
 
 
 Modelo de diseño:
 MVC Modelo Vista Controlador
-
+---------------------------------------------------------
 Instalar:
+
 Ruby
 Git
 Rails
